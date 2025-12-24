@@ -14,7 +14,7 @@ An ensemble-based anomaly detection pipeline that automates 24/7 monitoring of e
 - **Scalable Pipeline**: Tested on 120 days of historical traffic data
 
 ## Technologies Used
-- **Python 3.x**
+- **Python 3.10
 - **Time Series Analysis**: SARIMA (Seasonal ARIMA)
 - **Machine Learning**: Isolation Forest (scikit-learn)
 - **Statistical Methods**: Statistical baselines for anomaly detection
